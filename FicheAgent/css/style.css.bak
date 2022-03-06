@@ -1,0 +1,82 @@
+.photoId{
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+
+
+
+
+h2 {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  
+  
+}
+
+p{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+.logoSociete {
+
+		margin-left:82%;
+		
+}
+
+body
+{
+	background-image: url(../../logo/logo.png);
+	background-color: ;
+	background-repeat: no-repeat;
+	
+}
+
+
+footer{
+	
+	background-color: #379EC1;
+	background-image: url(../logo/logo.png)
+	background-repeat: repeat;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	height: 100px;
+	
+	background: rgb(55,158,193);
+	background: linear-gradient(90deg, rgba(55,158,193,0.21345707656612534) 0%, rgba(55,158,193,0.9303944315545244) 52%, rgba(55,158,193,0.22969837587006958) 100%);
+}
+
+a:visited
+{
+	color: black ;
+}
+
+a:link
+{	color: #659224;	
+		
+}
+
+.boutonRetour {
+	position: absolute;
+	top: 20px;
+	right:20px;
+	margin-right: 5%;
+}
+
+table{
+	border-style: dashed double none;
+}
+
+.materiel {
+	border-style: dashed double none;
+}
+
+.tableau {
+		margin-left: 46%;
+		/* margin-right: 50%; */
+		width: 30%;
+		font-family: 'Roboto', sans-serif;
+}
